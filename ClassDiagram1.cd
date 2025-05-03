@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Doan.Form1">
+    <Position X="8.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAICAAKCAAMBCCEAECAAIAABCAAQQQEIIABAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Doan.DSFileHTML">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAQAAQAAAAAAEAEAAACAABAAgAAAAA=</HashCode>
+      <FileName>Objects\DSFileHTML.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Doan.FileHTML">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAABAJIAAAAAoAAAAAAAAAJAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\FileHTML.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ĐỒ_ÁN_NHÓM_1.Objects.Node" HideInheritanceLine="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAQAAAAAAA=</HashCode>
+      <FileName>Objects\MyQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ĐỒ_ÁN_NHÓM_1.Objects.MyQueue">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAABAAAAAAAAAACAQAEAAABAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Objects\MyQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ĐỒ_ÁN_NHÓM_1.Program" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
